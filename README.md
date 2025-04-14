@@ -1,5 +1,2 @@
-"# Analisa-Sentimen-dan-Textual-Capres-2024" 
-"# Analisa-Sentimen-dan-Textual-Capres-2024" 
-"# Analisa-Sentimen-dan-Textual-Capres-2024" 
-"# Analisa-sentimen" 
-"# Analisa-sentimen" 
+ANALISA SENTIMEN DAN TEXTUAL DARI CALON PRESIDEN 2024
+
